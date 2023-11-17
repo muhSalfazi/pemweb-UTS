@@ -1,0 +1,31 @@
+Nama : Muhamad Salman Fauzi
+Kelas : IF 22C
+Nim : 22416255201063
+
+1.	Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawaban :yang saya tahu framework pada pengembangan aplikasi yaitu kumpulan komponen dan fitur yang sudah siap pakai yang dapat digunakan untuk membangun aplikasi.
+salah satu fungsi nya adalah Untuk mempercepat proses pengembangan aplikasi, mengurangi risiko kesalahan, dan meningkatkan kualitas aplikasi. 
+Terdapat banyak framework,namun yang saya ketahui salah satunya adalah, Bootstrap (framework ini menyidiakan banyak fitur menarik yang di gunakan untuk UI & UX yang reponsif dan lagi menarik) ,
+dan Laravel(framework web PHP gratis dan open-source yang dimaksudkan untuk membuat pengembangan aplikasi web lebih menyenangkan dan lebih mudah).
+
+2.	Sebutkan tema proyek yang sedang digarap!
+Jawaban : tema proyek  yang sedang di garap saya dan teman-teman  adalah Laundry
+a)	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawaban:
+•	Muhamad Salman Fauzi(saya): Jobdesk  saya dalam project ini focus terhadap frontend dan backend di dalam project ini.
+•	Pipit Fitria Zahara : jobdesk teman saya satu ini focus pada membuat data base(yang mencangkup erd ,normalisasi data dll).
+•	Neira anggia : jobdesk teman saya satu ini focus terhadap laporan dan menganalisa(yang mencangkup srs,diagram class,dll) projek yang sedang berjalan ini .
+Saya pikir pembagian jobdesk ini hanya formalitas karena semuanya bekerja sama untuk memastikan bahwa masing-masing dari kita memahami dan memahami semua kerangka dari awal hingga akhir proyek.
+
+b)	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawaban :
+Jadi, hasil survei kami di Laundry De'Ungu menunjukkan terdapat 2 permasalahan
+1.bahwa manajemen pelanggan dilakukan secara otomatis atau manual tanpa memberikan informasi tambahan.
+solusinya: Aplikasi harus memberi tahu pengguna tentang bagaimana mengelola pelanggan dan memesan barang.
+
+dan yang kedua menunjukkan bahwa manajemen pelanggan dilakukan secara otomatis atau manual, tanpa rincian tambahan.
+solusinya: Aplikasi harus menjelaskan proses pengelolaan pelanggan dan pesanan.
+
+
+
+
